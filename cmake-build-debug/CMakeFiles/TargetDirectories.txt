@@ -1,0 +1,3 @@
+C:/Users/Rangel/Desktop/projetosCLion/threadsVetor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rangel/Desktop/projetosCLion/threadsVetor/cmake-build-debug/CMakeFiles/threadsVetor.dir
+C:/Users/Rangel/Desktop/projetosCLion/threadsVetor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
